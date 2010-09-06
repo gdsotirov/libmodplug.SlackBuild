@@ -1,0 +1,11 @@
+libmodplug: libmodplug (A library for mod music based on ModPlug)
+libmodplug:
+libmodplug: This is a library based on the mod rendering code from ModPlug,
+libmodplug: a popular Windows mod player written by Olivier Lapicque, found
+libmodplug: at http://www.modplug.com.
+libmodplug:
+libmodplug:
+libmodplug:
+libmodplug:
+libmodplug:
+libmodplug: Packaged by Georgi D. Sotirov <gdsotirov@dir.bg>

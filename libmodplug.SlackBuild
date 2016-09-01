@@ -19,13 +19,13 @@
 #
 # Visit SlackPack at http://sotirov-bg.net/slackpack/
 #
-# $Id: libmodplug.SlackBuild,v 1.4 2016/09/01 20:54:24 gsotirov Exp $
+# $Id: libmodplug.SlackBuild,v 1.5 2016/09/01 20:57:43 gsotirov Exp $
 #
 
 . ../../slack-package.conf
 
 NAME=libmodplug
-VERSION=0.8.8.4
+VERSION=0.8.8.5
 ARCH=${ARCH:-i486}
 BUILD=${BUILD:-1}
 

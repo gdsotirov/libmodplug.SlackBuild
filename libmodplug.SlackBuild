@@ -1,7 +1,7 @@
 #!/bin/sh
 #
 # SlackBuild for libmodplug
-# Copyright (C) 2010-2016 Georgi D. Sotirov <gdsotirov@dir.bg>
+# Copyright (C) 2010-2017 Georgi D. Sotirov <gdsotirov@dir.bg>
 #
 # This program is free software; you can redistribute it and/or
 # modify it under the terms of the GNU General Public License
@@ -19,13 +19,13 @@
 #
 # Visit SlackPack at http://sotirov-bg.net/slackpack/
 #
-# $Id: libmodplug.SlackBuild,v 1.5 2016/09/01 20:57:43 gsotirov Exp $
+# $Id: libmodplug.SlackBuild,v 1.6 2017/04/25 13:19:21 gsotirov Exp $
 #
 
 . ../../slack-package.conf
 
 NAME=libmodplug
-VERSION=0.8.8.5
+VERSION=0.8.9.0
 ARCH=${ARCH:-i486}
 BUILD=${BUILD:-1}
 
